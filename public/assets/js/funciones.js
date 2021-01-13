@@ -1,5 +1,3 @@
-
-
 function decibeles( id_input, operacion){
     var numero = parseInt(document.getElementById(id_input).value,10);
   
@@ -50,9 +48,6 @@ function decibeles( id_input, operacion){
                   }
                                        } 
                                                            } 
-                       
-
-
     }
  
   }
